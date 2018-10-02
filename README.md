@@ -12,4 +12,4 @@ We use ***getItemViewType*** method in Adapter for this...
 
 in this repository we used just Two Layout. But You can Use 3 or More.
 
-enjoy it :)
+enjoy it & happy code :)
