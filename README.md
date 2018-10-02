@@ -8,7 +8,7 @@
 
 
 some Times We need To create diffrent layout for recyclerView and Show Theme.
-We use getItemViewType method in Adapter for this...
+We use ***getItemViewType*** method in Adapter for this...
 
 in this repository we used just Two Layout. But You can Use 3 or More.
 
