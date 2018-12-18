@@ -1,5 +1,5 @@
 # MultiViewsRecycler
-***multi row for recyclerview***
+__multi row for recyclerview__
 
 
 # Demo
